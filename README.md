@@ -1,4 +1,4 @@
-# Job_Key_Words_Finder
+# Job_Keywords_Finder
 
 This Python script allows users to find the top 10 most common words from a job description. You can use these keywords in your cover letter or resume to increase your chances of being hired. The idea came from the Sportsgrad podcast, where the host emphasized the importance of reading the job description multiple times. This script instantly identifies the most frequently used words and returns them to the user.
 
